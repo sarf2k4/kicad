@@ -1,4 +1,4 @@
-(module Digistump:Digispark (layer F.Cu) (tedit 5AB9EBC8)
+(module Digispark_MUSB (layer F.Cu) (tedit 5B4732E9)
   (fp_text reference REF** (at 0.72 -1.93) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

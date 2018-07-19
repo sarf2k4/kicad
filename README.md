@@ -7,3 +7,12 @@ Not an electronic engineer so what I wanted to incorporate is to add an existing
 
 
 Most of the Bluetooth files were pulled from https://github.com/tomaskovacik/kicad-library
+
+What's included in this repo
+
+Arduino module
+1. Kickstarter Digispark
+2. Audio sensor
+
+Bluetooth Audio
+1. F-6188 / BK8000L

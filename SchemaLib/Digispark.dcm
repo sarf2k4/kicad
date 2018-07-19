@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Digispark_Pro
+D MLF32, 16k Flash, 512B SRAM, 512B EEPROM, Debug Wire
+K AVR 8bit Microcontroller tinyAVR Automotive
+F http://www.atmel.com/Images/Atmel-8265-8-bit-AVR-Microcontroller-tinyAVR-ATtiny87-ATtiny167_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
