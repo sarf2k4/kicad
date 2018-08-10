@@ -143,4 +143,9 @@
   (pad 14 smd rect (at -6.8 6.55) (size 1.5 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at -6.8 7.65) (size 1.5 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -6.8 8.75) (size 1.5 0.8) (layers F.Cu F.Paste F.Mask))
+  (model "D:/Electronics/Kicad Library/kicad/packages3d/Bluetooth_Modules.3dshapes/BK8000L_F-6188.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

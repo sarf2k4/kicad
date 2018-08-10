@@ -1,4 +1,5 @@
-(module Volume_Knob (layer F.Cu) (tedit 5B62C50D)
+(module Volume_Knob_18mm (layer F.Cu) (tedit 5B62C4F1)
+  (tags "audio knob")
   (fp_text reference RV1 (at 5.5 -6.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -31,4 +32,9 @@
   (pad 4 thru_hole circle (at 7.425 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.45 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 10.9 -10.5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (model "D:/Electronics/Kicad Library/kicad/packages3d/Arduino_Modules.3dshapes/Volume_Knob_18mm.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

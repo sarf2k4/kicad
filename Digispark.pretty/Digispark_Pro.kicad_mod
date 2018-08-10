@@ -31,4 +31,14 @@
   (pad 14 thru_hole circle (at -2.496 12.726) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at -5.036 12.726) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 16 thru_hole circle (at -7.576 12.726) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (model "D:/Electronics/Kicad Library/kicad/packages3d/Digispark.3dshapes/Digispark_PRO_TOP.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "D:/Electronics/Kicad Library/kicad/packages3d/Digispark.3dshapes/Digispark_PRO_BOTTOM.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
