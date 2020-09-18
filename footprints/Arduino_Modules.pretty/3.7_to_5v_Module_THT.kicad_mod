@@ -1,8 +1,8 @@
-(module 3.7_to_5v_Module (layer F.Cu) (tedit 5F4D4F2C)
-  (fp_text reference REF** (at -0.127 1.389) (layer F.SilkS)
+(module 3.7_to_5v_Module_THT (layer F.Cu) (tedit 5F4D4ED0)
+  (fp_text reference REF** (at -0.127 1.389) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value 3.7_to_5v_Module (at -0.127 0.389) (layer F.Fab)
+  (fp_text value 3.7_to_5v_Module_THT (at -0.127 0.389) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user Out (at 0 6.7945) (layer F.SilkS)
