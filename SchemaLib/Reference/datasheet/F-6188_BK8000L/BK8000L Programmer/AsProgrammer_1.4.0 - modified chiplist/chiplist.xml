@@ -925,6 +925,9 @@
     <Paragon>
       <PN25F04A id="E04013" page="256" size="524288"/>
     </Paragon>
+	<Boya>
+	  <BY25D40 id="684013" page="256" size="524288"/>
+	</Boya>
   </SPI>
   <I2C>
     <_24Cxxx>
