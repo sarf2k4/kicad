@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Adafruit_MAX9814
+D Adafruit's MAX9814 mic agc module
+K max9814, adafruit
+$ENDCMP
+#
 $CMP Audio_Knob
 D Dual Potentiometer
 K resistor variable
@@ -18,6 +23,12 @@ $ENDCMP
 $CMP SPDT_Switch
 D Switch, single pole double throw
 K switch single-pole double-throw spdt ON-ON
+$ENDCMP
+#
+$CMP SolderJumper_4_Open
+D Solder Jumper, 3-pole, open
+K Solder Jumper SPDT
+F ~
 $ENDCMP
 #
 #End Doc Library
