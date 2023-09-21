@@ -55,7 +55,7 @@
     (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp d9b9d721-6ca7-4389-a4d5-2885a3ed2d93))
   (fp_line (start 3.3 11.8) (end -3.3 11.8)
     (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp cf963cae-933a-45b6-8cc8-288ae21d8436))
-  (dimension (type center) (layer "Eco1.User") (tstamp 7c8421d3-895f-4e92-b760-25e21b4e8323)
+  (dimension (type center) (layer "Dwgs.User") (tstamp 7c8421d3-895f-4e92-b760-25e21b4e8323)
     (pts (xy 0 0) (xy 0 0.45))
     (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_offset 0.5) keep_text_aligned)
   )
