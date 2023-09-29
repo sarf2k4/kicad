@@ -13,6 +13,23 @@ What's included in this repo
 Arduino module
 1. Kickstarter Digispark
 2. Audio sensor
+3. Volume Knob 14mm
 
 Bluetooth Audio
 1. F-6188 / BK8000L
+2. BM-83
+
+Connectors Extra
+1. 3.5mm Audio Jacks
+2. JST/Pin Headers with clearance
+3. USB C Receptacle 2 Pin (THT)
+
+Hole
+1. 0.6mm Mouse Bite
+
+Diode Extra
+1. DFN1006-2(SOD-882) 
+2. DFN1006-2(SOD-882) HandSolder
+
+LED Strips
+1. WS2812b Layout + Solder Pads
