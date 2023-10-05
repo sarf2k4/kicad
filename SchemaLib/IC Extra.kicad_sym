@@ -487,7 +487,7 @@
     (symbol "TP4056_1_1"
       (rectangle (start -6.985 -1.905) (end 6.985 -13.335)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (pin input line (at 12.065 -6.35 180) (length 5.08)
         (name "TEMP" (effects (font (size 1.27 1.27))))
