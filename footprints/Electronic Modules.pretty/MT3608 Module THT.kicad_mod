@@ -1,12 +1,12 @@
-(footprint "3.7_to_5v_Module_THT" (version 20221018) (generator pcbnew)
+(footprint "MT3608 Module THT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "THT and SMD for the step up module")
-  (attr through_hole)
+  (descr "THT Pads for the MT3608 step up module")
+  (attr through_hole exclude_from_pos_files)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a93b7730-a88f-49f9-85ea-78052a30eb3d)
   )
-  (fp_text value "3.7_to_5v_Module_THT" (at 5.5 0 90) (layer "F.SilkS") hide
+  (fp_text value "MT3608 Module THT" (at 5.5 0 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8872dcac-4532-49c5-b51a-ec7c9f52b1c9)
   )

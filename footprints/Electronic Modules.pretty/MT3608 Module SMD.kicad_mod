@@ -1,12 +1,12 @@
-(footprint "3.7_to_5v_Module_SMD" (version 20221018) (generator pcbnew)
+(footprint "MT3608 Module SMD" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "SMD Pads for the step up module")
-  (attr smd)
+  (descr "SMD Pads for the MT3608 step up module")
+  (attr smd exclude_from_pos_files)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f61df7c3-100c-44ca-9294-2e155341aee0)
   )
-  (fp_text value "3.7_to_5v_Module_SMD" (at 5.5 0 90) (layer "F.SilkS") hide
+  (fp_text value "MT3608 Module SMD" (at 5.5 0 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 029ecb61-ac90-4686-b564-19b611b70f5d)
   )
